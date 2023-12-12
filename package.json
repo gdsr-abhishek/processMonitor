@@ -1,0 +1,19 @@
+{
+  "name": "processmonitor",
+  "version": "1.0.0",
+  "description": "I thought of building a processMonitor in Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdsr-abhishek/processMonitor.git"
+  },
+  "author": "Abhishek Guntuboina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdsr-abhishek/processMonitor/issues"
+  },
+  "homepage": "https://github.com/gdsr-abhishek/processMonitor#readme"
+}
