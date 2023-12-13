@@ -1,0 +1,6 @@
+[submodule "ui/processMonitor-ui"]
+	path = ui/processMonitor-ui
+	url = https://github.com/gdsr-abhishek/processMonitor-ui.git
+[submodule "sv/processMonitor-sv"]
+	path = sv/processMonitor-sv
+	url = https://github.com/gdsr-abhishek/processMonitor-sv.git
